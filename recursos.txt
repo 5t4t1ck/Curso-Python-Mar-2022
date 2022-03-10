@@ -1,4 +1,5 @@
 Cursos
+
 https://www.udemy.com/
 Con certificado https://www.udemy.com/course/python-sin-fronteras-html-css-mysql
 Sin Certificado https://utpl-my.sharepoint.com/:u:/g/personal/dmsaavedra3_utpl_edu_ec/ET362mbvnNpJrYLxC60UImgBDYC5owjLT_STrQJBoLvR_Q?e=u1XOxT
@@ -25,3 +26,6 @@ Aprender Ingles https://www.duolingo.com/learn
 
 Perfil del Instructor https://5t4t1ck.github.io/
 
+Operaciones con Listas
+
+https://uniwebsidad.com/libros/algoritmos-python/capitulo-7/listas
