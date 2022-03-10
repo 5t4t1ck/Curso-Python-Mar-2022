@@ -29,3 +29,4 @@ Perfil del Instructor https://5t4t1ck.github.io/
 Operaciones con Listas
 
 https://uniwebsidad.com/libros/algoritmos-python/capitulo-7/listas
+Operaciones sobre listas en Python https://medium.com/@hgodinez89/operaciones-sobre-listas-en-python-c19853a9d07b
