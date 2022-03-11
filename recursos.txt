@@ -51,6 +51,3 @@ https://medium.com/@hgodinez89/operaciones-sobre-listas-en-python-c19853a9d07b
 
 Curso sobre Git
 https://www.youtube.com/watch?v=VdGzPZ31ts8&t=1543s
-
-Curso sobre Git
-https://www.youtube.com/watch?v=VdGzPZ31ts8&t=1543s
