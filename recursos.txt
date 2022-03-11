@@ -51,3 +51,15 @@ https://medium.com/@hgodinez89/operaciones-sobre-listas-en-python-c19853a9d07b
 
 Curso sobre Git
 https://www.youtube.com/watch?v=VdGzPZ31ts8&t=1543s
+
+Git Command Explorer
+https://gitexplorer.com/
+
+Operaciones con tuplas
+https://interactivechaos.com/es/manual/tutorial-de-python/operaciones-con-tuplas
+
+Programación: diccionario en Python
+https://www.tokioschool.com/noticias/programacion-diccionario-python/
+
+Diccionarios en Python 
+https://devcode.la/tutoriales/diccionarios-en-python/

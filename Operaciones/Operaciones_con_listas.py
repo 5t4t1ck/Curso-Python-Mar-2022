@@ -34,3 +34,6 @@ print(lista3[0:9:2])
 
 print(max(lista))
 print(min(lista))
+
+print(lista3.index("e"))
+print(lista3.count("u"))
