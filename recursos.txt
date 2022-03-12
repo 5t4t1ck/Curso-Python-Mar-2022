@@ -63,3 +63,6 @@ https://www.tokioschool.com/noticias/programacion-diccionario-python/
 
 Diccionarios en Python 
 https://devcode.la/tutoriales/diccionarios-en-python/
+
+Iteradores, iterables y la función next()
+https://recursospython.com/guias-y-manuales/iteradores-iterables-y-la-funcion-next/
