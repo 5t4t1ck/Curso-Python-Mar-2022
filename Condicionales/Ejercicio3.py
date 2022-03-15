@@ -1,10 +1,12 @@
 """ 
-Ebercicio1: Imprimir en pantalla los números pares del 1 al 500
-Ebercicio2: Imprimir en pantalla los números primos del 1 al 100
+Ejercicio1: Imprimir en pantalla los números pares del 1 al 500
+Ejercicio2: Imprimir en pantalla los números primos del 1 al 100
 """
+
 """for num in range(1,500):
     if num % 2 == 0:
         print(num)"""
+
 
 contador = 1
 limite = 100
@@ -19,4 +21,3 @@ for a in range(1, limite+1):
     else:
         a = a - 1
     contador += 1
-            
