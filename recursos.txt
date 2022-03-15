@@ -66,3 +66,6 @@ https://devcode.la/tutoriales/diccionarios-en-python/
 
 Iteradores, iterables y la función next()
 https://recursospython.com/guias-y-manuales/iteradores-iterables-y-la-funcion-next/
+
+Decoradores Python
+https://codigofacilito.com/articulos/decoradores-python
