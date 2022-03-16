@@ -1,46 +1,31 @@
-"""def gen_basico():
-    yield "uno"
-    yield "dos"
-    yield "tres"
-
-for valor in gen_basico():
-    print(valor) #uno, dos, tres
+"""def generadorPares(Limite):
     
-""""""
-def funcion():
-    return 5
+    num = 1
+    
+    lista = []
+    
+    while num<Limite:
+        lista.append(num*2)
+        num += 1
+    return lista
 
-funcion()
-"""
-def generador():
-    #yield 5
-    #yield 7
-    pass
-   
-#funcion()
+print(generadorPares(10))"""
 
-"""print(funcion())
-print(generador())
-# Salida: 5
-# Salida: <generator object generador at 0x103e7f0a0>"""
+def generadorPares(Limite):
+    
+    num = 1
+    
+    while num<Limite:
+        yield num*2
+        num += 1
+        
+devuelvePares=generadorPares(10)
 
-a = generador()
-#print(next(a))
-#print(next(a))
-# Salida: 5
-
-def generador():
-    n = 1
-    yield n
-
-    n += 1
-    yield n
-
-    n += 1
-    yield n
-
-
-print(  )
-print(next(g))
-print(next(g))
-#print(next(g))
+"""for i in devuelvePares:
+    print(i)"""
+    
+print(next(devuelvePares))
+print("Aquí va un poco más de código")
+print(next(devuelvePares))
+print("Aquí va mucho más código del que necesitamos hacer")
+print(next(devuelvePares))

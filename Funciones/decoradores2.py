@@ -1,20 +1,20 @@
-def measure_time(function):
-    def wrapper(*args, **kwargs):
-        import time
+def funcion_decoradora(funcion_parametro):
+    def funcion_interna():
+        print("Ahora vamos a realizar algunas operaciones matemáticas")
+        
+        funcion_parametro()
+        
+        print("Se termina la ejecución del código")
+        
+    return funcion_interna
 
-        start = time.time()
-        result = function(*args, **kwargs)
-        total = time.time() - start
-        print(total, 'seconds' )
-        return result
-
-    return wrapper
-
-
-@measure_time
-def suma(a, b):
-    import time
-    time.sleep(1)
-    return a + b
-
-print(suma(2, 5))
+@funcion_decoradora
+def suma():
+    print(2+4)
+    
+@funcion_decoradora 
+def resta():
+    print(4-2)
+    
+suma()
+resta()
