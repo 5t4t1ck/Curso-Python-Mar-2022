@@ -69,3 +69,6 @@ https://recursospython.com/guias-y-manuales/iteradores-iterables-y-la-funcion-ne
 
 Decoradores Python
 https://codigofacilito.com/articulos/decoradores-python
+
+POO con Python
+https://drive.google.com/file/d/1ChoJPc0Yhpq_QZhLSwjntqhum46WJ07Z/view
