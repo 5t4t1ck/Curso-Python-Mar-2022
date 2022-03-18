@@ -1,5 +1,4 @@
 def factorial(n):
-    
     """
     Calcula el factorial de n
     
