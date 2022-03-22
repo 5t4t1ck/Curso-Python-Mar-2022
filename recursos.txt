@@ -78,3 +78,9 @@ https://www.tutorialesprogramacionya.com/pythonya/detalleconcepto.php?punto=49&c
 
 "Getters" y "Setters" en Python
 https://platzi.com/tutoriales/1775-poo-python/5308-getters-y-setters-en-python/?gclid=Cj0KCQjw29CRBhCUARIsAOboZbIWftOk1C1WofnrH4iOQ55P17fj_eP9XM4qg5fX99_ZYUP81bhUac4aAp5cEALw_wcB&gclsrc=aw.ds
+
+Howtos de Python Tkinter
+https://www.delftstack.com/es/howto/python-tkinter/
+
+Caja de texto (Entry) en Tcl/Tk (tkinter)
+https://recursospython.com/guias-y-manuales/caja-de-texto-entry-tkinter/
