@@ -1,13 +1,8 @@
-lista = [2,-300, 4,6,-9,-100, -200]
+lista = [2,-800, 4,6,-9,-1000, -200]
 menor = "init"
-
 for x in lista:
-    if menor == "init":
+    if menor == "init" or menor > x:
         menor = x
-    else:
-        menor = x
-        if x < menor:
-            menor = x
-        else:
-            menor = menor
+    elif menor < x:
+        menor = menor       
 print(menor)
