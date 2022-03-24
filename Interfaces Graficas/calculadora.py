@@ -4,7 +4,7 @@ import tkinter
 
 ventana = tkinter.Tk()
 ventana.title("Calculadora")
-ventana.configure(background="SkyBlue4")
+#ventana.configure(background="SkyBlue4")
 #ventana.geometry("800x600")
 
 # Caja de texto

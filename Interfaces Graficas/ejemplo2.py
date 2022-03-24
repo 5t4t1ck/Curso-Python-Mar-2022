@@ -9,7 +9,7 @@ ventana.geometry("800x600")
     print("Hola Mundo")"""
 
 def saludo(nombre):
-    print("hola"+nombre)
+    print("hola "+nombre)
 
 #boton1 = tkinter.Button(ventana, text="Presionar", padx=50, pady=50)
 #boton1 = tkinter.Button(ventana, text="Presionar", command= lambda: saludo("python"))
