@@ -1,0 +1,110 @@
+1. Imprimir numeros de 5 a 1 de manera descendente
+
+2. Imprimir los números naturales del 0 al 10 utilizando un ciclo while
+
+3. Calcular el área y el perimetro de un Rectangulo,
+Crear las variables 
+
+alto (int)
+ancho (int)
+
+Area: alto * ancho
+Perímetro: alto + ancho
+
+4. El objetivo del ejercicio es crear un sistema de calificaciones, como sigue:
+
+El usuario proporcionará un valor entre 0 y 10.
+
+Si está entre 9 y 10: imprimir una A
+Si está entre 8 y menor a 9: imprimir una B
+Si está entre 7 y menor a 8: imprimir una C
+Si está entre 6 y menor a 7: imprimir una D
+Si está entre 0 y menor a 6: imprimir una F
+
+Cualquier otro valor debe imprimir: Valor desconocido
+
+Por ejemplo:
+
+    Proporciona un valor entre 0 y 10:
+    A
+
+5. Iterar un rango de 0 a 10 e imprimir sólo los números divisibles entre 3
+
+6. Definir una clase padre llamada Vehiculo y dos clases hijas llamadas Coche y Bicicleta, las cuales heredan de la clase Padre Vehiculo
+
+7. Crear una función para calcular el total de un pago incluyendo un impuesto aplicado.
+
+La función se llama calcular_total()
+
+La función recibe dos parámetros:
+
+1. pago_sin_impuesto
+
+2. impuesto (Ej. Valor de 10, significa 10% de impuesto, Valor de 16 significa el 16% de impuesto)
+
+La función debe regresar el total del pago incluyendo el porcentaje de impuesto proporcionado.
+
+Ej. Si llamamos a la función calcular_total(1000, 16) debe retornar el valor 1,160.0
+
+Los valores los debe proporcionar el usuario y se procesados con la función input, convirtiendolos a tipo float.
+
+8. Presentar un string con el titulo y el autor de un libro
+
+9. Solicitar al usuario dos valores:
+
+    numero1 (int)
+
+    numero2 (int)
+
+Se debe imprimir el mayor de los dos números (la salida debe ser identica a la que sigue):
+
+    Proporciona el numero1:
+    Proporciona el numero2:
+    El numero mayor es:<numeroMayor>
+
+10. Función con argumentos variables para multiplicar los valores
+
+11. Crear una función para multiplicar los valores recibidos de tipo numérico, 
+utilizando argumentos variables *args como parámetro de la función y regresar 
+como resultado la multiplicación de todos los valores pasados como argumentos.
+
+12. Dada la siguiente tupla, 
+crear una lista que sólo incluya los números menor que 5 utilizando un ciclo for: 
+tupla = (13, 1, 8, 3, 2, 5, 8)
+
+13. Imprimir numeros de 5 a 1 de manera descendente usando funciones recursivas. 
+Puede ser cualquier valor positivo, ejemplo, si pasamos el valor de 5, debe imprimir: 
+5 4 3 2 1 Si se pasa el valor de 3, debe imprimir: 3 2 1 Si se pasan valores negativos no imprime nada
+
+14. Hallar la potencia.
+
+15. Enunciado: Dado dos números enteros, hallar la suma.
+
+16. Dado un número de 5 dígitos, devolver el número en orden inverso.
+
+17. Crear un programa para saludar desde Python
+
+18.  Función con argumentos variables para sumar todos los valores recibidos
+
+19. Crear una función para sumar los valores recibidos de tipo numérico, utilizando 
+argumentos variables *args como parámetro de la función y regresar como resultado 
+la suma de todos los valores pasados como argumentos.
+
+20. Realizar dos funciones para convertir de grados celsius a fahrenheit y viceversa.
+
+Función 1. Recibir un parámetro llamado celcius y regresar el valor equivalente a fahrenheit
+
+    La función se llama: celsius_fahrenheit(celsius) 
+
+    La fórmula para convertir de celsius a fahrenheit es: celsius * 9/5 + 32  
+
+Función 2. Recibir un parámetro llamado fahrenheit y regresar el valor equivalente a celsius:
+
+    fahrenheit_celsius(fahrenheit)         
+
+    La fórmula para convertir de fahrenheit a celsius es:  (fahrenheit-32) * 5/9
+
+Los valores los debe proporcionar el usuario, utilizando la función input y convirtiendolo a tipo float.
+
+Deben hacer al menos dos pruebas, una donde conviertan de grados celcius a grados fahrenheit, y otra donde conviertan de grados fahrenheit a 
+grados celsius y mandar a imprimir los resultados.
